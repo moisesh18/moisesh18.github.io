@@ -1,0 +1,6 @@
+#facturas{
+    z-index: 99999999999999999999999999;
+    position: absolute;
+    top: 0;
+    background: white;
+}
